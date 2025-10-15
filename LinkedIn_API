@@ -1,0 +1,17 @@
+Welche öffentlich verfügbare LinkedIn APIs gibt es und welche Möglichkeiten diese anbieten: 
+Es scheint nur diese zu geben: 
+  Sign In with LinkedIn 
+      Zugriff auf grundlegende Profildaten des authentifizierten Nutzers (Name, Profilbild, Headline, E-Mail).
+      Wird für einfache Nutzer-Login, Identitätsbestätigung oder Benutzerkontenverwaltung genutzt.
+  Lite Profile API 
+      man bekommt Basisinformationen aus anderen Profilen
+  Content manager API 
+      Ermöglicht das Veröffentlichen, Kommentieren und Liken von Beiträgen im Namen eines authentifizierten Nutzers
+-> Es gibt keine öffentlich APIs wo kommentare abgezapft werden können
+-> Es gibt scraping Lösungne oder Kommentare können eventuell über bestimmte Partner-APIs (Marketing Developer Platform für Marketer in corporations) mit speziellen Zugriffsrechten
+
+
+Quellen:
+https://www.getphyllo.com/post/linkedin-api-paid-vs-free-plans-iv
+https://learn.microsoft.com/en-us/linkedin/shared/authentication/getting-access
+https://learn.microsoft.com/en-us/linkedin/marketing/community-management/shares/comments-api?view=li-lms-2025-08&tabs=http#social-actions-comments
